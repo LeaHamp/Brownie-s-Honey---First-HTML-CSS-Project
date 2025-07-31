@@ -2,7 +2,8 @@
 
 # 🍯 Brownie's Honey Ecommerce
 
-Welcome to my very first HTML & CSS adventure—a sweet e-commerce showcase inspired by the real products of Arctic Honey Finland!
+Welcome to my very first HTML & CSS adventure—a sweet e-commerce showcase inspired by the real products of Arctic Honey Finland! 
+DISCLAIMER: I made this 3 years ago so it might be outdated and some photos might not be available anymore. 
 
 🌟 **What’s inside?**
 - A beautiful, hand-coded online store—crafted from scratch with pure HTML and CSS.
